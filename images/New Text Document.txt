@@ -1,0 +1,62 @@
+.div1{
+    background-color: rgb(76, 41, 20);
+    width: 250px;
+    height: 600px;
+}
+.title1{
+    background-color: rgb(224, 221, 219);
+    border-radius: 50px;
+}
+.image1{
+
+    border-radius: 20px;
+}
+.title2{
+    background-color: rgb(162, 161, 159);
+    border-radius: 50px;
+}
+.div2{
+    background-color: rgb(119, 71, 41);
+    width: 250px;
+    height: 636px;
+}
+.p1{
+    background-color: rgb(162, 161, 159);
+}
+.a1{
+    font-size: large;
+    background-color: aliceblue;
+}
+.title3{
+    background-color: rgb(162, 161, 159);
+    border-radius: 50px;
+}
+.image2{
+    border-radius: 20px;
+}
+.p2{
+    background-color: rgb(162, 161, 159);
+}
+.a2{
+    font-size: large;
+    background-color: aliceblue;
+}
+.div3{
+    background-color: rgb(119, 71, 41);
+    width: 250px;
+    height: 272px;
+}
+.div4{
+    background-color: rgb(119, 71, 41);
+    width: 250px;
+    height: 272px;
+
+}
+.title4{
+    background-color: rgb(162, 161, 159);
+    border-radius: 50px;
+}
+.a4{
+    font-size: large;
+    background-color: aliceblue;
+}
